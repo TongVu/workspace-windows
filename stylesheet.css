@@ -1,0 +1,9 @@
+.workspace-windows-dialog { width: 640px; }
+.workspace-windows-title { font-size: 1.4em; font-weight: bold; }
+.workspace-windows-hint { font-size: 0.9em; margin: 8px 0 16px; }
+.workspace-windows-list { spacing: 10px; padding: 6px; }
+.workspace-windows-choice { padding: 12px; border-radius: 8px; text-align: left; }
+.workspace-windows-search { margin-bottom: 12px; }
+.workspace-windows-choice:hover, .workspace-windows-choice:focus, .workspace-windows-choice:selected {
+    background-color: rgba(128, 128, 128, 0.3);
+}

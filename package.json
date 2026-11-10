@@ -1,0 +1,9 @@
+{
+  "name": "workspace-windows",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check extension.js && node --check model.js"
+  }
+}

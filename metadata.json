@@ -1,0 +1,8 @@
+{
+  "uuid": "workspace-windows@local",
+  "name": "Workspace Windows",
+  "description": "Manage app shortcuts from Super+A and search assigned windows with Super+Space.",
+  "shell-version": ["50"],
+  "settings-schema": "org.gnome.shell.extensions.workspace-windows",
+  "version": 8
+}

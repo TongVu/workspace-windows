@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.workspace-windows" path="/org/gnome/shell/extensions/workspace-windows/">
+    <key name="show-workspace-windows" type="as"><default>['&lt;Super&gt;space']</default><summary>Show assigned workspace windows</summary></key>
+    <key name="assign-workspace-windows" type="as"><default>['&lt;Super&gt;a']</default><summary>Assign workspace windows</summary></key>
+    <key name="app-shortcut-app-1" type="s"><default>'com.microsoft.VSCode.desktop'</default><summary>Application for Super shortcut 1</summary></key>
+    <key name="app-shortcut-key-1" type="as"><default>['&lt;Super&gt;v']</default><summary>Application shortcut 1</summary></key>
+    <key name="app-shortcut-app-2" type="s"><default>'microsoft-edge.desktop'</default><summary>Application for Super shortcut 2</summary></key>
+    <key name="app-shortcut-key-2" type="as"><default>['&lt;Super&gt;e']</default><summary>Application shortcut 2</summary></key>
+    <key name="app-shortcut-app-3" type="s"><default>'org.gnome.Nautilus.desktop'</default><summary>Application for Super shortcut 3</summary></key>
+    <key name="app-shortcut-key-3" type="as"><default>['&lt;Super&gt;f']</default><summary>Application shortcut 3</summary></key>
+    <key name="app-shortcut-app-4" type="s"><default>'md.obsidian.Obsidian.desktop'</default><summary>Application for Super shortcut 4</summary></key>
+    <key name="app-shortcut-key-4" type="as"><default>['&lt;Super&gt;o']</default><summary>Application shortcut 4</summary></key>
+    <key name="app-shortcut-app-5" type="s"><default>'teams-for-linux.desktop'</default><summary>Application for Super shortcut 5</summary></key>
+    <key name="app-shortcut-key-5" type="as"><default>['&lt;Super&gt;t']</default><summary>Application shortcut 5</summary></key>
+    <key name="app-shortcut-app-6" type="s"><default>'kitty.desktop'</default><summary>Application for Super shortcut 6</summary></key>
+    <key name="app-shortcut-key-6" type="as"><default>['&lt;Super&gt;k']</default><summary>Application shortcut 6</summary></key>
+    <key name="app-shortcut-app-7" type="s"><default>''</default><summary>Application for Super shortcut 7</summary></key>
+    <key name="app-shortcut-key-7" type="as"><default>[]</default><summary>Application shortcut 7</summary></key>
+    <key name="app-shortcut-app-8" type="s"><default>''</default><summary>Application for Super shortcut 8</summary></key>
+    <key name="app-shortcut-key-8" type="as"><default>[]</default><summary>Application shortcut 8</summary></key>
+    <key name="app-shortcut-app-9" type="s"><default>''</default><summary>Application for Super shortcut 9</summary></key>
+    <key name="app-shortcut-key-9" type="as"><default>[]</default><summary>Application shortcut 9</summary></key>
+    <key name="app-shortcut-app-10" type="s"><default>''</default><summary>Application for Super shortcut 10</summary></key>
+    <key name="app-shortcut-key-10" type="as"><default>[]</default><summary>Application shortcut 10</summary></key>
+    <key name="app-shortcut-app-11" type="s"><default>''</default><summary>Application for Super shortcut 11</summary></key>
+    <key name="app-shortcut-key-11" type="as"><default>[]</default><summary>Application shortcut 11</summary></key>
+    <key name="app-shortcut-app-12" type="s"><default>''</default><summary>Application for Super shortcut 12</summary></key>
+    <key name="app-shortcut-key-12" type="as"><default>[]</default><summary>Application shortcut 12</summary></key>
+  </schema>
+</schemalist>
